@@ -42,9 +42,21 @@ span {font-size: 12px;}
 .confirmation {font-size: 12px;
 font-weight: bold;
 color: #009f52;
+margin-top: 20px;
 }
 
-.confirmation img {vertical-align: center;}
+.confirmation img {vertical-align: -20%;}
+
+#productvectortype {font-size: 18px;
+					color: #929597;}
+
+#flyouttype {color: #fff;
+				background-color: #4c4d4f;
+				padding: 12px;
+				font-size: 13px;
+				display:inline-block;}
+
+#flyouttype:hover {background-color: #00b3ec;}
 
 
 
@@ -58,16 +70,17 @@ color: #009f52;
 .colors div:nth-child(3) {background-color: #929597;}
 .colors div:nth-child(4) {background-color: #e6e7e8;}
 .colors div:nth-child(5) {background-color: #c9c8c8;}
-
-.colors div:nth-child(7) {background-color: #00b3ec;}
 .colors div:nth-child(6) {background-color: #000;}
-.colors div:nth-child(8) {background-color: #FDB813;}
-.colors div:nth-child(9) {background-color: #F7931D;}
-.colors div:nth-child(10) {background-color: #334DA1;}
-.colors div:nth-child(11) {background-color: #6A00A1;}
-.colors div:nth-child(12) {background-color: #498980;}
-.colors div:nth-child(13) {background-color: #009f52;}
-.colors div:nth-child(14) {background-color: #b91e37;}
+.colors div:nth-child(7) {background-color: #00b3ec;}
+.colors div:nth-child(8) {background-color: #b6e1f0; color:#000;}
+
+.colors div:nth-child(9) {background-color: #FDB813;}
+.colors div:nth-child(10) {background-color: #F7931D;}
+.colors div:nth-child(11) {background-color: #334DA1;}
+.colors div:nth-child(12) {background-color: #6A00A1;}
+.colors div:nth-child(13) {background-color: #498980;}
+.colors div:nth-child(14) {background-color: #009f52;}
+.colors div:nth-child(15) {background-color: #b91e37;}
 .colors div {color:#fff;}
 
 
